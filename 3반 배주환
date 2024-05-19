@@ -1,0 +1,13 @@
+명령어
+wasd : 이동키
+
+메뉴
+Game
+start : 게임시작
+pause : 일시정지
+end   : 게임종료
+
+Mode
+easy   : 12x8 판
+normal : 20x14 판
+hard   : 20x14 판, 빨간 사각형
